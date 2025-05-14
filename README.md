@@ -18,10 +18,10 @@ A Java console application to manage a game tournament using fundamental data st
 ## 🧱 Data Structures Overview
 
 Purpose	- Data Structure - Functionality
-Alphabetical player storage	-> TreeBST -> Add/search/delete/display sorted players
-Match waiting list ->	Queue -> Add/remove players in play order
-Group by game	-> ForwardList ->	View all players playing the same game
-Undo recent additions	-> Stack	-> Remove last added player
+- Alphabetical player storage	 -> TreeBST      -> Add/search/delete/display sorted players
+- Match waiting list           ->	Queue      -> Add/remove players in play order
+- Group by game	             -> ForwardList  ->	View all players playing the same game
+- Undo recent additions    	 -> Stack	     -> Remove last added player
 
 ## 📋 Menu Options
 
@@ -47,10 +47,6 @@ Undo recent additions	-> Stack	-> Remove last added player
 
 ## 🛠 Technologies Used
 
-~ Java
-~ Custom implementations of:
-   TreeBST
-   Queue
-   Forward List
-   Stack
+- Java
+- Custom implementations of:TreeBST, Queue, Forward List, Stack
 
